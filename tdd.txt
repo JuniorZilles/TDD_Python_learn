@@ -1,0 +1,6 @@
+1) implementar o esqueleto da função, com os parametros de entrada e de saida, com formatos.
+2) pensar em exemplos de uso para a função, testes normais, testes que possam dar errado, ex. passar um elemento na lista, ou nenhum e definir seus devidos resultados
+
+pensar 2+ casos de uso normal
+pensar 1+ casos incomuns de entrada
+quando tem if else criar varios testes onde cada um caia em uma condição
